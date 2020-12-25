@@ -1,3 +1,3 @@
 # GliomaGrading
 
-BraTS29 Dataset
+BraTS2019 Dataset
